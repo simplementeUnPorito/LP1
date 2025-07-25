@@ -1,0 +1,71 @@
+0000000000000000000000000000000000000000 8a37b14bdf43aa1572450800b20dfb1122d58d1f lp1-2022 <espinoza.esp123@gmail.com> 1661546477 -0400	clone: from https://github.com/LP1-UCA-2022s2/TPF_Alquerque_Passera_Alvarez.git
+8a37b14bdf43aa1572450800b20dfb1122d58d1f 3e5dc593ad571df0b620db4ba826e354890e8373 lp1-2022 <espinoza.esp123@gmail.com> 1661550695 -0400	commit: se movio todo dos espacios arriba xd
+3e5dc593ad571df0b620db4ba826e354890e8373 cd92aeab3d8d0626ad68a2a17d61e0cf403b243b lp1-2022 <espinoza.esp123@gmail.com> 1662062160 -0400	pull: Fast-forward
+cd92aeab3d8d0626ad68a2a17d61e0cf403b243b 1ba5670361646c432c9aa944495544b2a82a52aa lp1-2022 <espinoza.esp123@gmail.com> 1662071558 -0400	pull: Fast-forward
+1ba5670361646c432c9aa944495544b2a82a52aa a7fbe06b5a1d6d7a806778bf6619582db4d6d4dc lp1-2022 <espinoza.esp123@gmail.com> 1662073262 -0400	commit: hola
+a7fbe06b5a1d6d7a806778bf6619582db4d6d4dc e5d5790eb36fc0c3abd98aec0996c6e7387666b8 lp1-2022 <espinoza.esp123@gmail.com> 1662073516 -0400	commit: buenas
+e5d5790eb36fc0c3abd98aec0996c6e7387666b8 f175b908f55df30def6e855785113a4c7c01f8bc lp1-2022 <espinoza.esp123@gmail.com> 1662073666 -0400	commit: Cambio de nombre
+f175b908f55df30def6e855785113a4c7c01f8bc 093660ac4ce5e299c256502f8369403fa5ab4e7b lp1-2022 <espinoza.esp123@gmail.com> 1662256790 -0400	pull: Fast-forward
+093660ac4ce5e299c256502f8369403fa5ab4e7b 06eadf2baa3ef02e520e0219e9f4ab593283bcb8 lp1-2022 <espinoza.esp123@gmail.com> 1663625459 -0400	pull: Fast-forward
+06eadf2baa3ef02e520e0219e9f4ab593283bcb8 a13ead3a2805d57c4cb92e6cd27d493afad5acdd lp1-2022 <espinoza.esp123@gmail.com> 1663631543 -0400	commit: nuevo code
+a13ead3a2805d57c4cb92e6cd27d493afad5acdd 750451f978e1aa5139b752cf425c245a548b2447 lp1-2022 <espinoza.esp123@gmail.com> 1663631584 -0400	pull: Merge made by the 'recursive' strategy.
+750451f978e1aa5139b752cf425c245a548b2447 432f8d7a36942855c900bfdcb2e968acb0acb57a lp1-2022 <espinoza.esp123@gmail.com> 1663890003 -0400	commit: nueva función revisar_Validez_Cad incompleta
+432f8d7a36942855c900bfdcb2e968acb0acb57a f748bfb0daa9f8895ba7beccddc6686c4c96993f lp1-2022 <espinoza.esp123@gmail.com> 1663890323 -0400	commit (merge): nueva funcion revisar_Validez_Cad incompleta
+f748bfb0daa9f8895ba7beccddc6686c4c96993f 43395d0e1906d438dbb82c0c8b4cce0b49e69ba3 lp1-2022 <espinoza.esp123@gmail.com> 1664320203 -0400	commit: Actualizacion de la funcion revisar_Semantica_Y_Carga()
+43395d0e1906d438dbb82c0c8b4cce0b49e69ba3 7438c80c00c49f03e2016d7cb16613d7a4735235 lp1-2022 <espinoza.esp123@gmail.com> 1664320468 -0400	commit (merge): actualizacion de la funcion printTable, revisar_Semantica_Y_Carga
+7438c80c00c49f03e2016d7cb16613d7a4735235 8ba4f8c0f5ae55b924bf58dd525303fa358219b6 lp1-2022 <espinoza.esp123@gmail.com> 1664320791 -0400	commit: actualizacion de la funcion printTable, revisar_Semantica_Y_Carga
+8ba4f8c0f5ae55b924bf58dd525303fa358219b6 7949d3cb6d43cf70d1d5ce86eb3bebee840792cd lp1-2022 <espinoza.esp123@gmail.com> 1664678730 -0400	commit: chooseMode() function edited and decrementar_turno() function added
+7949d3cb6d43cf70d1d5ce86eb3bebee840792cd de6928c09dfd1aba33695a901daf47ed63922a8c lp1-2022 <espinoza.esp123@gmail.com> 1664678758 -0400	pull: Merge made by the 'recursive' strategy.
+de6928c09dfd1aba33695a901daf47ed63922a8c 6e3f63ec9c2a16cccfe2fdbc57ad05a5d93a1981 lp1-2022 <espinoza.esp123@gmail.com> 1664902040 -0300	pull: Fast-forward
+6e3f63ec9c2a16cccfe2fdbc57ad05a5d93a1981 0ce923dc8d9e682d3d5aaf87910605462bc68c3f lp1-2022 <espinoza.esp123@gmail.com> 1664911336 -0300	commit: opcion de multiplayer, modificacion de funciones pedirjugada, chooseMode y revisar_Semantica_Y_Carga
+0ce923dc8d9e682d3d5aaf87910605462bc68c3f 0f2143181f3d60b83e1eaebfebef4fa9e658ccdc lp1-2022 <espinoza.esp123@gmail.com> 1664914670 -0300	commit: Arreglo de 3 warnings
+0f2143181f3d60b83e1eaebfebef4fa9e658ccdc 33f1fe5b1acea0f9bc63ddd0bd1d4d2544058bf6 lp1-2022 <espinoza.esp123@gmail.com> 1665000357 -0300	commit (merge): nada
+33f1fe5b1acea0f9bc63ddd0bd1d4d2544058bf6 83babff17f4ceb0d2cb89ae7bfeb2994553f42c8 lp1-2022 <espinoza.esp123@gmail.com> 1665007371 -0300	commit: funciones: mov_diagonal_cuadrantes y coincide_ficha_turno
+83babff17f4ceb0d2cb89ae7bfeb2994553f42c8 f3f6771657e916ce8a85037b9036b1868b8d2002 lp1-2022 <espinoza.esp123@gmail.com> 1665010535 -0300	commit: nada
+f3f6771657e916ce8a85037b9036b1868b8d2002 f722dbdeb7fb91a504492655d90edb8e89c95cd2 lp1-2022 <espinoza.esp123@gmail.com> 1665010636 -0300	commit (merge): nada
+f722dbdeb7fb91a504492655d90edb8e89c95cd2 2de958c3dc47475bc4aa682340c08808771677ba lp1-2022 <espinoza.esp123@gmail.com> 1665026239 -0300	commit: full comentarios facheros y nuevas funciones utilizadas en revisar_Semantica_Y_Carga: mov_diagonal_cuadrantes, coincide_ficha_turno, mov_eje_Y, mov_eje_X, cargar_auxEn_tablero y cargar_movEn_aux
+2de958c3dc47475bc4aa682340c08808771677ba 2e2e002ed4bc1d267ce0567caebb6734343c168b lp1-2022 <espinoza.esp123@gmail.com> 1665083549 -0300	commit: edicion funcion generarJugada, sin nada de inteligencia
+2e2e002ed4bc1d267ce0567caebb6734343c168b 6f5cb8f692c92ee71cfaad360b8fb4b2f01b5e79 lp1-2022 <espinoza.esp123@gmail.com> 1667499468 -0300	pull: Fast-forward
+6f5cb8f692c92ee71cfaad360b8fb4b2f01b5e79 ff38bd4a8cafdc1d6df87e4b94889f83904baabe lp1-2022 <espinoza.esp123@gmail.com> 1667679567 -0300	commit: nada
+ff38bd4a8cafdc1d6df87e4b94889f83904baabe 341320922a1db9720aee427d34b251118153d31a lp1-2022 <espinoza.esp123@gmail.com> 1667682805 -0300	commit (merge): asda
+341320922a1db9720aee427d34b251118153d31a f6a3ecb92db64407ff874414c45092d45eee75cf lp1-2022 <espinoza.esp123@gmail.com> 1667691842 -0300	commit: asdaf
+f6a3ecb92db64407ff874414c45092d45eee75cf 986c95e9a2e0c11dffa6b2d4a3cb89f28460c2a5 lp1-2022 <espinoza.esp123@gmail.com> 1667852736 -0300	commit (merge): nada
+986c95e9a2e0c11dffa6b2d4a3cb89f28460c2a5 d9e4a94314d3e9090497eba28399ff112479e567 lp1-2022 <espinoza.esp123@gmail.com> 1667852895 -0300	commit (merge): nada
+d9e4a94314d3e9090497eba28399ff112479e567 8b3b78b0b5eb799b5c3591f76015b4193e758961 lp1-2022 <espinoza.esp123@gmail.com> 1667857525 -0300	commit: UI_alquerque
+8b3b78b0b5eb799b5c3591f76015b4193e758961 c904e84f5f924f34309e62e2953344f21f370f4f lp1-2022 <espinoza.esp123@gmail.com> 1667858873 -0300	commit: actualizacion proyecto alquerqueGTK
+c904e84f5f924f34309e62e2953344f21f370f4f e23ecaefbbe8d6b59c9517b0df74277fc6646cd2 lp1-2022 <espinoza.esp123@gmail.com> 1667858912 -0300	pull: Merge made by the 'recursive' strategy.
+e23ecaefbbe8d6b59c9517b0df74277fc6646cd2 db5b7bfae2a9c7ba7a173658e7ae999706d97c0c lp1-2022 <espinoza.esp123@gmail.com> 1667859388 -0300	commit: eliminacion de UI_alquerque.c
+db5b7bfae2a9c7ba7a173658e7ae999706d97c0c a1c562dfb8c4fc03a420ddeef5c96c1cd257b1b4 lp1-2022 <espinoza.esp123@gmail.com> 1667864612 -0300	commit: gtk
+a1c562dfb8c4fc03a420ddeef5c96c1cd257b1b4 3f0575e15211d3bef736ab23ddd17549654e6080 lp1-2022 <espinoza.esp123@gmail.com> 1667944442 -0300	commit: nada
+3f0575e15211d3bef736ab23ddd17549654e6080 64456512da5d311485c26a0fbf50572d728fe5a5 lp1-2022 <espinoza.esp123@gmail.com> 1667944462 -0300	pull: Merge made by the 'recursive' strategy.
+64456512da5d311485c26a0fbf50572d728fe5a5 59e65220d2705a8a50e0944f67cc3787fe68a2ed lp1-2022 <espinoza.esp123@gmail.com> 1667944581 -0300	commit: .zip tp2 bowling
+59e65220d2705a8a50e0944f67cc3787fe68a2ed 3fd2c19a0f18d46731e954ee01d69d91d38e6575 lp1-2022 <espinoza.esp123@gmail.com> 1667954348 -0300	commit: gtk glade update
+3fd2c19a0f18d46731e954ee01d69d91d38e6575 e796634669bbc09204d76a09c201638932244063 lp1-2022 <espinoza.esp123@gmail.com> 1667954363 -0300	pull: Merge made by the 'recursive' strategy.
+e796634669bbc09204d76a09c201638932244063 20a5e54e5beb8e75f3cbf4aee40faee8575aee30 lp1-2022 <espinoza.esp123@gmail.com> 1667962217 -0300	commit: gtk glade update, new images alquerque
+20a5e54e5beb8e75f3cbf4aee40faee8575aee30 2ec666f4cc0a9a6871c03c575b868cc626a5fd55 lp1-2022 <espinoza.esp123@gmail.com> 1667962709 -0300	commit (merge): prueba
+2ec666f4cc0a9a6871c03c575b868cc626a5fd55 d9605af85920c3cba141cd849673af4a93d69092 lp1-2022 <espinoza.esp123@gmail.com> 1667965590 -0300	commit: gtk actualizado
+d9605af85920c3cba141cd849673af4a93d69092 c113ed8bb8350a372cf3b63a8889e4af2fb856eb lp1-2022 <espinoza.esp123@gmail.com> 1667999784 -0300	commit: gtk actualizacion
+c113ed8bb8350a372cf3b63a8889e4af2fb856eb 95e27cf8d95b4333ab699b88a28927d107a41143 lp1-2022 <espinoza.esp123@gmail.com> 1668006841 -0300	commit: gtk codigo actualizado
+95e27cf8d95b4333ab699b88a28927d107a41143 cf270412c2248a4d6f02654545a9324d25ea019a lp1-2022 <espinoza.esp123@gmail.com> 1668013715 -0300	commit: gtk glade codigo actualizado
+cf270412c2248a4d6f02654545a9324d25ea019a 960fe8233ce6441f1e236dfcbc7cc1346fab72c3 lp1-2022 <espinoza.esp123@gmail.com> 1668013733 -0300	pull: Merge made by the 'recursive' strategy.
+960fe8233ce6441f1e236dfcbc7cc1346fab72c3 78c733ede954de7a5f292231b8ae828796ce6074 lp1-2022 <espinoza.esp123@gmail.com> 1668029031 -0300	commit: xd
+78c733ede954de7a5f292231b8ae828796ce6074 b37f101268ffff29fb713afb1e42e18d2b38536b lp1-2022 <espinoza.esp123@gmail.com> 1668029062 -0300	pull: Merge made by the 'recursive' strategy.
+b37f101268ffff29fb713afb1e42e18d2b38536b c792080df7993fa490aa545b1a1a01d55f6f0aba lp1-2022 <espinoza.esp123@gmail.com> 1668029439 -0300	commit: gtk imagen vacio marcado
+c792080df7993fa490aa545b1a1a01d55f6f0aba cdac6f0590ec46b22d32d83b432a7f45f2bab385 lp1-2022 <espinoza.esp123@gmail.com> 1668029458 -0300	pull: Merge made by the 'recursive' strategy.
+cdac6f0590ec46b22d32d83b432a7f45f2bab385 d58e29ca5afe6c921aa8d924662ed1ec76e17a92 lp1-2022 <espinoza.esp123@gmail.com> 1668110164 -0300	pull: Fast-forward
+d58e29ca5afe6c921aa8d924662ed1ec76e17a92 ca748d171d2f34eb137faeff37a926fae7223826 lp1-2022 <espinoza.esp123@gmail.com> 1668112108 -0300	commit: nuevo modo de juego random gtk
+ca748d171d2f34eb137faeff37a926fae7223826 3385d637916cd8a873ae3870b7d93a09de72980f lp1-2022 <espinoza.esp123@gmail.com> 1668112186 -0300	commit (merge): nuevo modo de juego random gtk
+3385d637916cd8a873ae3870b7d93a09de72980f 538b3dbba0bee0b13fe2e59a66299fb392d6754e lp1-2022 <espinoza.esp123@gmail.com> 1668112892 -0300	pull: Fast-forward
+538b3dbba0bee0b13fe2e59a66299fb392d6754e 089e5b85214851565851e88d7e1a61a194c06ad2 lp1-2022 <espinoza.esp123@gmail.com> 1668114346 -0300	commit: nuevo label que indica modo de juego en la ventana de juego
+089e5b85214851565851e88d7e1a61a194c06ad2 364f8b278cb6bcc1a1c46b2acda06f58114bf3e4 lp1-2022 <espinoza.esp123@gmail.com> 1668114363 -0300	pull: Merge made by the 'recursive' strategy.
+364f8b278cb6bcc1a1c46b2acda06f58114bf3e4 9229c2197a2e76e9288f70c53ecf9207ecb164d8 lp1-2022 <espinoza.esp123@gmail.com> 1668539709 -0300	pull: Fast-forward
+9229c2197a2e76e9288f70c53ecf9207ecb164d8 13cbb07069313b9b0cff88afb40e68e372ab260d lp1-2022 <espinoza.esp123@gmail.com> 1668546495 -0300	commit: solucionado error de ficha que no se actualiza cuando se le come en la digonal principal hacia en 2do cuadrante
+13cbb07069313b9b0cff88afb40e68e372ab260d a52f038bc7883f6597e33158398c8043d94240bb lp1-2022 <espinoza.esp123@gmail.com> 1669070955 -0300	pull: Fast-forward
+a52f038bc7883f6597e33158398c8043d94240bb d5c53ec608d9f23650eb1af5ca617467caed5140 lp1-2022 <espinoza.esp123@gmail.com> 1669074201 -0300	commit: revisar semantica actualizado y nueva funcion reset_labels()
+d5c53ec608d9f23650eb1af5ca617467caed5140 88dd866dcb13d9ed17b6969050786ac68e0cd041 lp1-2022 <espinoza.esp123@gmail.com> 1669669908 -0300	pull: Fast-forward
+88dd866dcb13d9ed17b6969050786ac68e0cd041 c8f33c017215d9d89ce9026e4c0d2515116f0566 lp1-2022 <espinoza.esp123@gmail.com> 1669673136 -0300	commit: nada
+c8f33c017215d9d89ce9026e4c0d2515116f0566 7ed8c875ea893bd83088e3801a01c563c0820b78 lp1-2022 <espinoza.esp123@gmail.com> 1669675072 -0300	commit (merge): nada
+7ed8c875ea893bd83088e3801a01c563c0820b78 f01501fc201d086bacedd8b34313425b67695004 lp1-2022 <espinoza.esp123@gmail.com> 1669675144 -0300	commit (merge): nad
+f01501fc201d086bacedd8b34313425b67695004 99b255c53b9db23d25f5f82099cae22d9ebf1693 lp1-2022 <espinoza.esp123@gmail.com> 1669676468 -0300	commit: nada ponele
+99b255c53b9db23d25f5f82099cae22d9ebf1693 190ba84f9bb3b4685d96e8989a9dd150ea0e06a0 lp1-2022 <espinoza.esp123@gmail.com> 1669679394 -0300	pull: Fast-forward
+                                                                          

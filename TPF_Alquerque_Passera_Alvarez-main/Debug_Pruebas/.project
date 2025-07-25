@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Debug_Pruebas</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Pruebas</name>
+			<type>1</type>
+			<location>/home/lp1-2022/eclipse-workspace/GitProjects/TPF_Alquerque_Passera_Alvarez/Pruebas/Debug/Pruebas</location>
+		</link>
+		<link>
+			<name>alquerque</name>
+			<type>1</type>
+			<location>/home/lp1-2022/eclipse-workspace/GitProjects/TPF_Alquerque_Passera_Alvarez/alquerque/Debug/alquerque</location>
+		</link>
+	</linkedResources>
+</projectDescription>

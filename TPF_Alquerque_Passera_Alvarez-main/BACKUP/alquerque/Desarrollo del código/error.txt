@@ -1,0 +1,217 @@
+        Seleccione el modo de juego:
+        [P]C vs PC
+        [S]ingle Player
+        [M]ultiplayer
+        Respuesta: M
+
+        Elija el orden de los turnos:
+        [B]lancas primero
+        [N]egras primero
+        [R]andom
+
+        Respuesta: R
+
+          0 1 2 3 4
+        0 O-O-O-O-O
+          |\|/|\|/|
+        1 O-O-O-O-O
+          |/|\|/|\|
+        2 O-O- -@-@
+          |\|/|\|/|
+        3 @-@-@-@-@
+          |/|\|/|\|
+        4 @-@-@-@-@
+          
+        Jugada fichas blancas: 22:22
+        ERROR: Jugada invalida
+        Jugada fichas blancas: 21:22
+        ERROR: Jugada invalida
+        Jugada fichas blancas: 31:22,13
+        ERROR: Jugada invalida
+        Jugada fichas blancas: 31:22
+          0 1 2 3 4
+        0 O-O-O-O-O
+          |\|/|\|/|
+        1 O-O-O-O-O
+          |/|\|/|\|
+        2 O-O-@-@-@
+          |\|/|\|/|
+        3 @- -@-@-@
+          |/|\|/|\|
+        4 @-@-@-@-@
+          
+        Jugada fichas negras: 13:31
+          0 1 2 3 4
+        0 O-O-O-O-O
+          |\|/|\|/|
+        1 O-O-O- -O
+          |/|\|/|\|
+        2 O-O- -@-@
+          |\|/|\|/|
+        3 @-O-@-@-@
+          |/|\|/|\|
+        4 @-@-@-@-@
+          
+        Jugada fichas blancas: 40:22
+          0 1 2 3 4
+        0 O-O-O-O-O
+          |\|/|\|/|
+        1 O-O-O- -O
+          |/|\|/|\|
+        2 O-O-@-@-@
+          |\|/|\|/|
+        3 @- -@-@-@
+          |/|\|/|\|
+        4  -@-@-@-@
+          
+        Jugada fichas negras: 03:13
+          0 1 2 3 4
+        0 O-O-O- -O
+          |\|/|\|/|
+        1 O-O-O-O-O
+          |/|\|/|\|
+        2 O-O-@-@-@
+          |\|/|\|/|
+        3 @- -@-@-@
+          |/|\|/|\|
+        4  -@-@-@-@
+          
+        Jugada fichas blancas: 23:03
+          0 1 2 3 4
+        0 O-O-O-@-O
+          |\|/|\|/|
+        1 O-O-O- -O
+          |/|\|/|\|
+        2 O-O-@- -@
+          |\|/|\|/|
+        3 @- -@-@-@
+          |/|\|/|\|
+        4  -@-@-@-@
+          
+        Jugada fichas negras: 24:13
+        ERROR: Jugada invalida
+        Jugada fichas negras: 20:40
+          0 1 2 3 4
+        0 O-O-O-@-O
+          |\|/|\|/|
+        1 O-O-O- -O
+          |/|\|/|\|
+        2  -O-@- -@
+          |\|/|\|/|
+        3  - -@-@-@
+          |/|\|/|\|
+        4 O-@-@-@-@
+          
+        Jugada fichas blancas: 42:31
+          0 1 2 3 4
+        0 O-O-O-@-O
+          |\|/|\|/|
+        1 O-O-O- -O
+          |/|\|/|\|
+        2  -O-@- -@
+          |\|/|\|/|
+        3  -@-@-@-@
+          |/|\|/|\|
+        4 O-@- -@-@
+          
+        Jugada fichas negras: 10:20
+          0 1 2 3 4
+        0 O-O-O-@-O
+          |\|/|\|/|
+        1  -O-O- -O
+          |/|\|/|\|
+        2 O-O-@- -@
+          |\|/|\|/|
+        3  -@-@-@-@
+          |/|\|/|\|
+        4 O-@- -@-@
+          
+        Jugada fichas blancas: 24:13
+          0 1 2 3 4
+        0 O-O-O-@-O
+          |\|/|\|/|
+        1  -O-O-@-O
+          |/|\|/|\|
+        2 O-O-@- - 
+          |\|/|\|/|
+        3  -@-@-@-@
+          |/|\|/|\|
+        4 O-@- -@-@
+          
+        Jugada fichas negras: 02:24,42
+          0 1 2 3 4
+        0 O-O- -@-O
+          |\|/|\|/|
+        1  -O-O- -O
+          |/|\|/|\|
+        2 O-O-@- - 
+          |\|/|\|/|
+        3  -@-@- -@
+          |/|\|/|\|
+        4 O-@-O-@-@
+          
+        Jugada fichas blancas: 22:02
+          0 1 2 3 4
+        0 O-O-@-@-O
+          |\|/|\|/|
+        1  -O- - -O
+          |/|\|/|\|
+        2 O-O- - - 
+          |\|/|\|/|
+        3  -@-@- -@
+          |/|\|/|\|
+        4 O-@-O-@-@
+          
+        Jugada fichas negras: 40:22
+          0 1 2 3 4
+        0 O-O-@-@-O
+          |\|/|\|/|
+        1  -O- - -O
+          |/|\|/|\|
+        2 O-O-O- - 
+          |\|/|\|/|
+        3  - -@- -@
+          |/|\|/|\|
+        4  -@-O-@-@
+          
+        Jugada fichas blancas: 32:10
+        ERROR: Jugada invalida
+        Jugada fichas blancas: 32:12
+          0 1 2 3 4
+        0 O-O-@-@-O
+          |\|/|\|/|
+        1  -O-@- -O
+          |/|\|/|\|
+        2 O-O- - - 
+          |\|/|\|/|
+        3  - - - -@
+          |/|\|/|\|
+        4  -@-O-@-@
+          
+        Jugada fichas negras: 42:40
+          0 1 2 3 4
+        0 O-O-@-@-O
+          |\|/|\|/|
+        1  -O-@- -O
+          |/|\|/|\|
+        2 O-O- - - 
+          |\|/|\|/|
+        3  - - - -@
+          |/|\|/|\|
+        4 O-@- - -@
+          
+        Jugada fichas blancas: 34:24
+          0 1 2 3 4
+        0 O-O-@-@-O
+          |\|/|\|/|
+        1  -O-@- -O
+          |/|\|/|\|
+        2 O-O- - -@
+          |\|/|\|/|
+        3  - - - - 
+          |/|\|/|\|
+        4 O-@- - -@
+          
+        Jugada fichas negras: 40:42
+        ERROR: Jugada invalida
+        Jugada fichas negras: 

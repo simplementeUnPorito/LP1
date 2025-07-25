@@ -1,0 +1,14 @@
+Reglas.c                (ej.: chooseMode, play, etc)
+ Reglas.h 
+
+Inteligencia.c          (juego de la PC)
+ Inteligencia.h
+
+Interfaz_In.c           (todo lo que este relacionado a mostrar en pantalla)
+ Interfaz_In.h
+
+Interfaz_Out.c          (todo lo que este relacionado a mostrar en pantalla)
+ Interfaz_Out.h
+
+Principal.c     
+

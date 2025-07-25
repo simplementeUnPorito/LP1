@@ -1,0 +1,17 @@
+Las estructuras de datos más importantes en este programa son
+    Variables Globales:
+        Las variables jBlanco y jNegro son unsigned chars en las cuales se define qué tipo de jugador controla cada una de las fichas, pudiendo ser estos una persona o la PC. Esto se decidió usar de esta manera en especifico ya que no sabemos inicialmente el tipo de jugador que tendrá cada color, además de que separarlos así nos permite reciclar funciones.
+
+        Las variables fichasBlancas y fichasNegras son unsigned chars en las cuales se almacenan las fichas sobrantes de cada jugador. Esto nos sirve para fácilmente saber quién y cuándo se ganó.
+
+        La variable tablero[5][6] es una matriz de unsigned chars donde se almacenan las posiciones de las fichas y los lugares libres. Se eligió este modelo ya que se adapta perfectamente a cómo se representa el tablero del juego en la vida real.
+
+        La variable turno es un unsigned char que actúa como booleano, cambiando en cada fin de turno a su negación. Esta es la forma más sencilla de verificar a quién le corresponde jugar, dada las características cíclicas del juego.
+
+
+
+    De la función revisar_Semantica_Y_Carga:
+        La variable aux[5][6] es una matriz de unsigned char en la que copiamos los valores almacenados en el tablero, esto lo hacemos para poder modificarla buscando errores y no perder el tablero inicial en el caso de encontrarlo. Caso contrario, es tan sencillo como cargar los datos obtenidos en aux al tablero.
+
+        La variable coord_actual[3] es un vector de unsigned char en el que almacenamos la posición en la que se encuentra la ficha que estamos analizando. Junto a coord_sgte[3] —del mismo tipo que la anterior, pero almacenando la posición a la que queremos movernos—, verificamos si la validez de ese movimiento, cargando en coord_comido[3] la posición de la ficha capturada en caso de que esta exista.
+
